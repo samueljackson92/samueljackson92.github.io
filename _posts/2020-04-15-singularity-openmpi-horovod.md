@@ -1,7 +1,7 @@
 ---
 layout: post
 title: OpenMPI, Horovod, and Singularity on HPC
-date: 2000-01-01
+date: 2020-04-16
 tags: machine-learning, openmpi, horovod, singularity, tensorflow
 published: True
 ---
