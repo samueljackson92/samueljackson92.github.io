@@ -1,4 +1,10 @@
-# OpenMPI, Horovod, and Singularity on HPC
+---
+layout: post
+title: OpenMPI, Horovod, and Singularity on HPC
+date: 2000-01-01
+tags: machine-learning, openmpi, horovod, singularity, tensorflow
+published: True
+---
 
 Running multi-node, multi-GPU machine learning code on HPC systems is somewhat of a jungle. This post gathers together some lessons learned trying to get Tensorflow 2+ code packaged in a singularity container to work on both multiple nodes & multiple GPUs.
 
