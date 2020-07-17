@@ -1,8 +1,14 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-I'm a data scientist in the SciML group at the Scientific Computing Department in Rutherford Appleton Laboratory, Oxfordshire, UK. Before that I worked at ISIS Neutron and Muon Source as a scientific software engineer. Outside of my day job I'm interested in tennis, chess, cooking, and learning to speak Spanish. All views are my own.
+I'm a data scientist in the Science & Machine Learning group within the Scientific Computing Department at Rutherford Appleton Laboratory, Oxfordshire, UK. This blog is primarily a place for me to dump my learning notes. My main research interests are around how recent advances in machine learning can be applied to solve challenges in scientific data analysis. I have a particular interest in:
+
+ - Unsupervised, semi-supervised, and self-supervised methods.
+ - Working with small datasets
+ - Working with multi-modal datasets
+ - Uncertainty quantification
+ - Model interpretability & constraints
 
