@@ -2,23 +2,8 @@
   "basics": {
     "name": "Samuel Jackson",
     "label": "Data Scientist | Software Engineer",
-    "image": "",
     "email": "samueljackson@outlook.com",
-    "url": "https://samueljackson92.github.io/",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "sljack92",
-        "url": "https://twitter.com/sljack92"
-      }
-    ]
+    "github": "<a href=\"https://github.com/samueljackson92\">samueljackson92</a>"
   },
   "work": [
     {
