@@ -1,12 +1,10 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Samuel Jackson",
+    "label": "Data Scientist | Software Engineer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "samueljackson@outlook.com",
+    "url": "https://samueljackson92.github.io/",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -17,21 +15,40 @@
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "sljack92",
+        "url": "https://twitter.com/sljack92"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "Scientific Computing Department, STFC",
+      "position": "Senior Data Scientist",
+      "url": "https://www.scd.stfc.ac.uk/Pages/home.aspx",
+      "startDate": "2019",
+      "endDate": "Present",
+      "summary": "",
       "highlights": [
-        "Relativity"
+        "I work to apply machine learning and deep learning techniques to help solve a wide range of complex problems faced by scientific facilities at STFC and the wider UK community.",
+        "Project: Developed an AI ready platform for FAIRly curating historical data from the MAST tokamak. This is a joint project with CCFE.",
+        "Developed the SciML benchmark suite for scientific machine learning as part of the BASE I Excalibur Project. Benchmarks from this work were contributed as part of MLCommons. I am involved in the BASE II project to expand to Exascale capability.",
+        "Project: Pulse shape discrimination and pile-up recovery in organic scintillator detectors which demonstrated a potential 5-10% gain in detector efficiency. This project was joint with ISIS and STFC Technology department.",
+        "Project: Automatically identifying bad particle picks in Cryo-Eletrcon Microscopy data at Diamond Light Source using VAEs and CNNs.", 
+        "Project: Predicting damaged optics from diagnostic near field images in high energy laser physics for the Gemini laser at the Central Laser Facility using autoencoders for anomaly detection."
+      ]
+    },
+    {
+      "name": "ISIS Neutron & Muon Source, STFC",
+      "position": "Scientific Software Engineer",
+      "url": "https://www.isis.stfc.ac.uk/Pages/home.aspx",
+      "startDate": "2016",
+      "endDate": "2019",
+      "summary": "",
+      "highlights": [
+        "Worked to develop and maintain code bases for the reduction and analysis of diffraction data from the ISIS facility.",
+        "Led an agile team of 4 people within the Mantid project to develop diffraction analysis tools.",
+        "Secondment to SCD computational physics group: Developed code for running & analyzing the results of DFT (CASTEP) & DFTB+ calculations for finding the muon implantation site in organic crystal structures.",
+        "Secondment to ISIS controls group: Wrote several new device drivers using EPICS, ported control scripts from an in-house language to Python, and developed test cases & emulators for many devices from temperature gauges to sample stages."
       ]
     }
   ],
@@ -49,6 +66,7 @@
     }],
   "education": [
     {
+<<<<<<< HEAD
       "institution": "University of Zurich, Zurich, Switzerland",
       "location": "Zurich, Switzerland",
       "url": "https://www.uzh.ch/",
@@ -57,13 +75,29 @@
       "startDate": "1905-01-01",
       "endDate": "1905-01-01",
       "score": "10",
+=======
+      "institution": "University of Aberystwyth, Aberystwyth, UK",
+      "url": "https://aber.ac.uk/en/",
+      "area": "Software Engineering",
+      "studyType": "M.Eng",
+      "startDate": "2011",
+      "endDate": "2016",
+      "score": "First class honors",
+>>>>>>> 3f3a7e58 (Update site)
       "courses": [
-        "Theory of Relativity"
+        "Mathematics for Computer Science",
+        "Computer Vision",
+        "Machine Learning",
+        "Robotics",
+        "Agile Methodologies",
+        "C++ Programming",
+        "C Programming"
       ]
     }
   ],
-  "awards": [
+  "skills": [
     {
+<<<<<<< HEAD
       "title": "Nobel Prize in Physics",
       "date": "1921-11-01",
       "awarder": "Royal Swedish Academy of Sciences",
@@ -195,3 +229,24 @@
     }
   ]
 }
+=======
+      "name": "Python",
+      "keywords": ["numpy", "scipy", "pandas", "geopandas", "matplotlib", "dask", "xarray", "hvplot", "pytest", "ase", "mpi4py"]
+    },
+    {
+      "name": "C++",
+      "keywords": ["C++14", "boost", "eigen", "pybind11", "xtensor", "qt", "poco", "cxxtest", "muparser"]
+    },
+    {
+      "name": "Machine Learning",
+      "keywords": ["scikit-learn", "pytorch", "pytorch-lightning", "tensorflow", "keras", "pymc4", "horovod"]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}
+>>>>>>> 3f3a7e58 (Update site)
