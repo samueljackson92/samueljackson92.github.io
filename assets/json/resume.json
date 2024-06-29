@@ -7,11 +7,22 @@
   },
   "work": [
     {
+      "name": "Culham Centre for Fusion Energy, UK Atomic Energy Authority",
+      "position": "Principal Data Scientist",
+      "url": "https://ccfe.ukaea.uk/",
+      "startDate": "2024",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Working within the Machine Learning and Visualisation at UKAEA to produce solutions and tools to advance the UK's fusion energy programme."
+      ]
+    },
+    {
       "name": "Scientific Computing Department, STFC",
       "position": "Senior Data Scientist",
       "url": "https://www.scd.stfc.ac.uk/Pages/home.aspx",
       "startDate": "2019",
-      "endDate": "Present",
+      "endDate": "2024",
       "summary": "",
       "highlights": [
         "I work to apply machine learning and deep learning techniques to help solve a wide range of complex problems faced by scientific facilities at STFC and the wider UK community.",
