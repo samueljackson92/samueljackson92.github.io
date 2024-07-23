@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Data Scientist | Software Engineer
+subtitle: Data Scientist | Research Software Engineer
 
 profile:
   align: right
