@@ -2,6 +2,8 @@ github_users:
   - samueljackson92
 
 github_repos:
+  - ukaea/fair-mast
+  - ukaea/pytokamap
   - stfc-sciml/sciml-bench
   - stfc-sciml/sciml-workshop
   - samueljackson92/mast-book
