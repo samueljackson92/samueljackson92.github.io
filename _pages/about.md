@@ -16,4 +16,4 @@ social: true  # includes social icons at the bottom of the page
 
 I'm a data scientist working in the machine learning and visualization group at the [UK Atomic Energy Authority](https://ccfe.ukaea.uk/). 
 
-I have a background in Machine Learning for large scale science facilities. In a previous life I worked on Python and C++ development for scientific data analysis and reduction workflows. I have experience developing machine learning models in both Pytorch and Tensorflow, as well as practical knowledge of scaling models on large HPC systems.
+I have a background in machine learning for large scale science facilities. In a previous life I worked on Python and C++ development for scientific data analysis and reduction workflows. I have experience developing machine learning models in both Pytorch and Tensorflow, as well as practical knowledge of scaling models on large HPC systems.
