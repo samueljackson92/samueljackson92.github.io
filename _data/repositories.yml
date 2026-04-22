@@ -3,8 +3,13 @@ github_users:
 
 github_repos:
   - ukaea/fair-mast
-  - ukaea/pytokamap
+  - ukaea/toktagger
+  - samueljackson92/uda-xarray
+  - samueljackson92/sal-xarray
+  - samueljackson92/shot-tabular
   - stfc-sciml/sciml-bench
   - stfc-sciml/sciml-workshop
-  - samueljackson92/mast-book
+  - MIT-PSFC/disruption-py
   - mantidproject/mantid
+  - samueljackson92/xr-tui
+  - samueljackson92/xinter
