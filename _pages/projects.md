@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A collection of projects I have created or have been involved in contributing to.
+description: A collection of projects I have created or have been involved in contributing to. This includes work projects, as well as fun side projects.
 nav: true
 nav_order: 3
 display_categories: [work, fun]
